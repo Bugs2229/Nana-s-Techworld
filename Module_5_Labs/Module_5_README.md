@@ -1,7 +1,7 @@
 # Nana's Module-5 Reveiw 
 
 ## Topology 
-![Alt text](https://gitlab.com/nana_techworld/nana_techworld/-/blob/84853f657e65b608c74c8f96be577f4b8e085a7f/Images/Module_5.gif)
+
 
 ## Overveiw
 Module 5 is essentially a mini end-to-end deployment that involved the following:
