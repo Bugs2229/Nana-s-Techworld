@@ -1,7 +1,7 @@
 # Nana's Module-5 Reveiw 
 
 ## Topology 
-
+![image alt](https://github.com/Bugs2229/Nana-s-Techworld/blob/17deec15b4fb170386230414c8354c017bba7020/Module%205.gif)
 
 ## Overveiw
 Module 5 is essentially a mini end-to-end deployment that involved the following:
@@ -9,7 +9,7 @@ Module 5 is essentially a mini end-to-end deployment that involved the following
 * Create a firewall and assing the firewall to the droplet in the cloud. 
 * Configure the firewall to allow inbound port over TCPs:80|22|443|3000 from local laptop to server.
 * Take a Node.js app and package it on local laptop.
-* Copy the Node.js app to Droplet in the cloud.
+* Copy the Node.js app to Droplet in the cloud. Alt
 * Run the app in the directory you selected on the droplet.
 * Create a user account to use instead of the root user.
 
