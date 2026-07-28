@@ -1,5 +1,3 @@
-/
-/
 # Module 6 Lab
 
 # Artifact Repository Manager with Nexus
